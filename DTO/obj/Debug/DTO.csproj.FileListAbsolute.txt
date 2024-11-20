@@ -1,0 +1,14 @@
+C:\Users\cheda\source\repos\DA_PTPMUDTM\DTO\bin\Debug\DTO.dll.config
+C:\Users\cheda\source\repos\DA_PTPMUDTM\DTO\bin\Debug\DTO.dll
+C:\Users\cheda\source\repos\DA_PTPMUDTM\DTO\bin\Debug\DTO.pdb
+C:\Users\cheda\source\repos\DA_PTPMUDTM\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\cheda\source\repos\DA_PTPMUDTM\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\cheda\source\repos\DA_PTPMUDTM\DTO\obj\Debug\DTO.dll
+C:\Users\cheda\source\repos\DA_PTPMUDTM\DTO\obj\Debug\DTO.pdb
+C:\Users\cheda\OneDrive\Máy tính\New folder\LopThayDanh\DA_PTPMUDTM\DTO\bin\Debug\DTO.dll.config
+C:\Users\cheda\OneDrive\Máy tính\New folder\LopThayDanh\DA_PTPMUDTM\DTO\bin\Debug\DTO.dll
+C:\Users\cheda\OneDrive\Máy tính\New folder\LopThayDanh\DA_PTPMUDTM\DTO\bin\Debug\DTO.pdb
+C:\Users\cheda\OneDrive\Máy tính\New folder\LopThayDanh\DA_PTPMUDTM\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\cheda\OneDrive\Máy tính\New folder\LopThayDanh\DA_PTPMUDTM\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\cheda\OneDrive\Máy tính\New folder\LopThayDanh\DA_PTPMUDTM\DTO\obj\Debug\DTO.dll
+C:\Users\cheda\OneDrive\Máy tính\New folder\LopThayDanh\DA_PTPMUDTM\DTO\obj\Debug\DTO.pdb

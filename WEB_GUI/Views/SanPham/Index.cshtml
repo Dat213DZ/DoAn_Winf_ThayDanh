@@ -1,0 +1,21 @@
+@model IEnumerable<WEB_GUI.Models.SanPham>
+
+<div class="container">
+    <h2>Danh sách sản phẩm</h2>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="@item.HinhAnh" class="card-img-top" alt="@item.TenSanPham">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.TenSanPham</h5>
+                        <p class="card-text">@item.MoTa</p>
+                        <p class="card-text">Giá: @item.Gia.ToString("N0") VNĐ</p>
+                        <p class="card-text">Số lượng: @item.SoLuongTon</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div> 
